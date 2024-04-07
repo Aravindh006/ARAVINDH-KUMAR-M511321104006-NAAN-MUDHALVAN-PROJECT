@@ -12,6 +12,12 @@ PROJECT CREATED BY :
 
    
 
+
+
+
+
+
+
    
 LOGIN DETAILS:
 
@@ -20,6 +26,11 @@ UNAME: admin
 
 
 Password:admin
+
+
+
+
+
 
 
 
