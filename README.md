@@ -1,6 +1,6 @@
 # ARAVINDH-KUMAR-M511321104006-NAAN-MUDHALVAN-PROJECT
 
-PROJECT CREATED BY : 
+## PROJECT CREATED BY : 
 
    NAME:ARAVINDH KUMAR M
 
@@ -19,7 +19,7 @@ PROJECT CREATED BY :
 
 
    
-LOGIN DETAILS:
+## LOGIN DETAILS:
 
 
 UNAME: admin
@@ -35,7 +35,7 @@ Password:admin
 
 
 
-#Project Running steps:
+## Project Running steps:
 
 python manage.py makemigrations
 
